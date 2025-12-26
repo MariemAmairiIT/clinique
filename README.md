@@ -9,3 +9,5 @@ rules:
 - me nupdatiwch m3a b3adhna 9bal me tpushi yezem t9oli me yezemch fard wa9t 
 - ki thell bech tekhdem yezzm tpulli 9bal khtr bech dima tekhdem 3la l version es7i7a najem ena me 9otlkch w nsit
 - me tpushi ken baad me tkmll koll chy tebda khedma final men ghir errors 
+
+kelem feregh
