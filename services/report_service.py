@@ -13,7 +13,7 @@ class ReportService:
         cursor = conn.cursor()
         
         stats = {}
-        
+       
         try:
             # 1. Nombre total de patients
             cursor.execute("SELECT COUNT(*) FROM patients")
